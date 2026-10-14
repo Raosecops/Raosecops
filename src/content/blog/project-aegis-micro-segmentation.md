@@ -1,6 +1,6 @@
 ---
 title: "Project Aegis: Zero-Trust Micro-Segmentation in Linux"
-pubDate: 2026-10-14T00:00:00.000Z
+date: 2026-10-14T00:00:00.000Z
 description: "How Project Aegis uses Linux namespaces and stateful iptables to stop lateral threat movement and secure multi-tier network architectures."
 author: "Rao T"
 tags: ["cybersecurity", "networking", "linux", "zero-trust"]
