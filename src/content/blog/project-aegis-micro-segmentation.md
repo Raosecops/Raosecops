@@ -1,10 +1,11 @@
 ---
 title: "Project Aegis: Zero-Trust Micro-Segmentation in Linux"
-pubDate: 2026-10-14
+pubDate: 2026-10-14T00:00:00.000Z
 description: "How Project Aegis uses Linux namespaces and stateful iptables to stop lateral threat movement and secure multi-tier network architectures."
-author: "Rao Tariq Jameel"
+author: "Rao T"
 tags: ["cybersecurity", "networking", "linux", "zero-trust"]
 ---
+
 
 In traditional home and enterprise networks, everything sits on a flat network. Once an attacker breaches a single endpoint or web server, they have open highway access to move laterally across the entire network to compromise databases and critical infrastructure. 
 
