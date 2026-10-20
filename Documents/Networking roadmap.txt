@@ -1,0 +1,271 @@
+WEEK 1: FOUNDATIONS OF CONNECTIVITY
+
+Focus: Mastering the Ubuntu terminal and Layer 1-3 plumbing.
+
+    Day 1 – Linux Network Stack
+
+        Learning: Linux networking stack, interfaces, and NICs.
+
+        Practical: ip addr, ip link, and nmcli.
+
+        Documentation: Day 1 System Baseline.
+
+        Cloud Lens: Maps to Virtual NICs (ENIs) in AWS.
+
+    Day 2 – ARP
+
+        Learning: MAC addresses and the ARP protocol.
+
+        Practical: ip neigh, arp -a.
+
+        Documentation: ARP Analysis.
+
+        Cloud Lens: ARP is abstracted (Software Defined) by cloud providers.
+
+    Day 3 – IPv4 & Subnetting
+
+        Learning: CIDR and subnet masks.
+
+        Practical: Manual subnetting calculations + ipcalc.
+
+        Documentation: Subnetting Cheat Sheet.
+
+        Cloud Lens: Same CIDR logic used in VPC subnet design.
+
+    Day 4 – Routing
+
+        Learning: Routing logic and the default gateway.
+
+        Practical: ip route (add/delete).
+
+        Documentation: Packet flow diagram.
+
+        Cloud Lens: Equivalent to VPC Route Tables.
+
+    Day 5 – ICMP
+
+        Learning: ICMP protocol and error reporting.
+
+        Practical: ping, traceroute, mtr.
+
+        Documentation: Timeout vs. Unreachable logs.
+
+        Cloud Lens: ICMP is often restricted via Security Groups for stealth.
+
+    Day 6 – DHCP
+
+        Learning: The DORA process.
+
+        Practical: dhclient -v to observe the handshake.
+
+        Documentation: DHCP handshake diagram.
+
+        Cloud Lens: Managed automatically by the Cloud Fabric/Metadata service.
+
+    Day 7 – DNS
+
+        Learning: DNS hierarchy and resolution.
+
+        Practical: dig +trace to root servers.
+
+        Documentation: DNS resolution blog.
+
+        Cloud Lens: Maps to Route 53 or Azure DNS.
+
+WEEK 2: TRANSPORT & SECURE ACCESS
+
+Focus: How data moves and how we access systems securely.
+
+    Day 8 – TCP
+
+        Learning: Handshake, sequencing, and reliability.
+
+        Practical: ss -tulpn.
+
+        Documentation: TCP reliability explanation.
+
+        Cloud Lens: Basis for Layer 4 Load Balancers.
+
+    Day 9 – UDP
+
+        Learning: Connectionless protocols.
+
+        Practical: Netcat (nc) UDP stream tests.
+
+        Documentation: TCP vs. UDP comparison.
+
+        Cloud Lens: Critical for DNS and VoIP cloud services.
+
+    Day 10 – Ports
+
+        Learning: Common vs. Ephemeral ports.
+
+        Practical: nc -zv, telnet.
+
+        Documentation: Port reference guide.
+
+        Cloud Lens: Access controlled via Security Groups.
+
+    Day 11 – SSH Hardening (Updated)
+
+        Learning: Encryption and Key-based Authentication.
+
+        Practical: Generate keys; Disable Root Login and Password Auth in /etc/ssh/sshd_config; create a custom login banner.
+
+        Documentation: "The Hardened SSH Guide".
+
+        Cloud Lens: Essential for securing EC2/VM instances.
+
+    Day 12 – HTTP/S
+
+        Learning: Methods and Status Codes.
+
+        Practical: curl -v.
+
+        Documentation: Status codes explanation.
+
+        Cloud Lens: Backbone of APIs and Microservices.
+
+    Day 13 – NAT
+
+        Learning: NAT, PAT, and Private vs. Public space.
+
+        Practical: Compare internal IP with curl ifconfig.me.
+
+        Documentation: NAT behavior explanation.
+
+        Cloud Lens: Directly relates to NAT Gateway usage in private subnets.
+
+    Day 14 – Troubleshooting
+
+        Learning: Layered troubleshooting models.
+
+        Practical: Full connectivity "drill".
+
+        Documentation: Troubleshooting flowchart.
+
+        Cloud Lens: Universal methodology for debugging cloud outages.
+
+WEEK 3: SECURITY & ANALYSIS
+
+Focus: Identifying vulnerabilities and analyzing traffic.
+
+    Day 15 – Scanning
+
+        Learning: Port scanning theory.
+
+        Practical: nmap stealth scans.
+
+        Documentation: Service discovery report.
+
+        Cloud Lens: Cloud providers alert on internal port scans.
+
+    Day 16 – Fingerprinting
+
+        Learning: Version detection and banners.
+
+        Practical: nmap -sV -O.
+
+        Documentation: Banner grabbing analysis.
+
+        Cloud Lens: Part of a cloud security "Surface Area" audit.
+
+    Day 17 – Packet Sniffing
+
+        Learning: Packet capture and pcap theory.
+
+        Practical: Wireshark/Tcpdump capture on your local interface.
+
+        Documentation: Explaining "Promiscuous Mode".
+
+        Cloud Lens: Replaced by VPC Traffic Mirroring in the cloud.
+
+    Day 18 – Traffic Analysis
+
+        Learning: TCP stream reconstruction.
+
+        Practical: "Follow TCP Stream" in Wireshark.
+
+        Documentation: Capturing a cleartext login vs. encrypted.
+
+        Cloud Lens: Cloud security relies on "Flow Logs" (metadata) over raw packets.
+
+    Day 19 – Firewalls
+
+        Learning: Stateful vs. Stateless inspection.
+
+        Practical: UFW setup on Ubuntu.
+
+        Documentation: Firewall policy guide.
+
+        Cloud Lens: UFW = Host Firewall; Security Group = Cloud Firewall.
+
+    Day 20 – IPS & Edge Defense (Updated)
+
+        Learning: Intrusion Detection vs. Intrusion Prevention.
+
+        Practical: Install Fail2Ban; configure it to block SSH brute force attempts.
+
+        Documentation: Compare Fail2Ban (host-level) to Cloud WAF (edge-level).
+
+        Cloud Lens: Automated blocking at the edge before it hits your server.
+
+    Day 21 – VPN
+
+        Learning: Tunneling and IPsec/WireGuard.
+
+        Practical: Research WireGuard implementation.
+
+        Documentation: Site-to-Site VPN diagram.
+
+        Cloud Lens: Crucial for Hybrid-Cloud (On-prem to Cloud) links.
+
+WEEK 4: CAPSTONE PROJECT
+
+Focus: Building a hardened web architecture.
+
+    Day 22 – Nginx
+
+        Practical: Install and configure Nginx as a Reverse Proxy.
+
+        Cloud Lens: Equivalent to an Application Load Balancer (ALB).
+
+    Day 23 – TLS
+
+        Practical: Use OpenSSL to generate certificates and enable HTTPS.
+
+        Cloud Lens: Known as "SSL Termination" at the load balancer.
+
+    Day 24 – IPv6
+
+        Practical: ping6 and address analysis.
+
+        Cloud Lens: Simplifies cloud routing by removing NAT.
+
+    Day 25 – Monitoring
+
+        Practical: Research SPAN ports vs. TAPs.
+
+        Cloud Lens: Use "VPC Flow Logs" to see who is talking to your instances.
+
+    Day 26 – Review
+
+        Task: Networking recap and mock Security+ quiz.
+
+    Day 27 – Documentation
+
+        Task: Use Draw.io to create a final architecture diagram of your labs.
+
+    Day 28 – Polish
+
+        Task: Refactor all GitHub READMEs for professional clarity.
+
+    Day 29 – Branding
+
+        Task: Update LinkedIn with your new technical stack.
+
+    Day 30 – Final Presentation
+
+        Task: Record a 2-minute demo of your hardened Nginx server and GitHub repo.
+
+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

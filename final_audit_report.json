@@ -1,0 +1,322 @@
+{
+    "Reservations": [
+        {
+            "ReservationId": "r-a55d3a5341844e4a7",
+            "OwnerId": "000000000000",
+            "Groups": [],
+            "Instances": [
+                {
+                    "Architecture": "x86_64",
+                    "BlockDeviceMappings": [
+                        {
+                            "DeviceName": "/dev/sda1",
+                            "Ebs": {
+                                "AttachTime": "2026-05-15T05:31:11+00:00",
+                                "DeleteOnTermination": true,
+                                "Status": "in-use",
+                                "VolumeId": "vol-861bc1a7cf8c08972"
+                            }
+                        }
+                    ],
+                    "ClientToken": "ABCDE0000000000003",
+                    "EbsOptimized": false,
+                    "Hypervisor": "xen",
+                    "NetworkInterfaces": [
+                        {
+                            "Attachment": {
+                                "AttachTime": "2015-01-01T00:00:00+00:00",
+                                "AttachmentId": "eni-attach-49889eae5845d1f1d",
+                                "DeleteOnTermination": true,
+                                "DeviceIndex": 0,
+                                "Status": "attached"
+                            },
+                            "Description": "Primary network interface",
+                            "Groups": [
+                                {
+                                    "GroupId": "sg-7c0f1574087b8c691",
+                                    "GroupName": "app-security-group"
+                                }
+                            ],
+                            "MacAddress": "1b:2b:3c:4d:5e:6f",
+                            "NetworkInterfaceId": "eni-e81eeb15be360178f",
+                            "OwnerId": "000000000000",
+                            "PrivateIpAddress": "10.0.2.4",
+                            "PrivateIpAddresses": [
+                                {
+                                    "Primary": true,
+                                    "PrivateIpAddress": "10.0.2.4"
+                                }
+                            ],
+                            "SourceDestCheck": true,
+                            "Status": "in-use",
+                            "SubnetId": "subnet-1a6bfa29369df829f",
+                            "VpcId": "vpc-c4e3a55a0447ee1f4"
+                        }
+                    ],
+                    "RootDeviceName": "/dev/sda1",
+                    "RootDeviceType": "ebs",
+                    "SecurityGroups": [
+                        {
+                            "GroupId": "sg-7c0f1574087b8c691",
+                            "GroupName": "app-security-group"
+                        }
+                    ],
+                    "SourceDestCheck": true,
+                    "StateReason": {
+                        "Code": "",
+                        "Message": ""
+                    },
+                    "Tags": [
+                        {
+                            "Key": "Name",
+                            "Value": "NebulaGuard-App-Tier"
+                        }
+                    ],
+                    "VirtualizationType": "paravirtual",
+                    "HibernationOptions": {
+                        "Configured": false
+                    },
+                    "InstanceId": "i-e37c0b9ac8c9500e2",
+                    "ImageId": "ami-0c55b159cbfafe1f0",
+                    "State": {
+                        "Code": 16,
+                        "Name": "running"
+                    },
+                    "PrivateDnsName": "ip-10-0-2-4.ec2.internal",
+                    "PublicDnsName": "None",
+                    "StateTransitionReason": "",
+                    "AmiLaunchIndex": 0,
+                    "InstanceType": "t2.micro",
+                    "LaunchTime": "2026-05-15T05:31:11+00:00",
+                    "Placement": {
+                        "GroupName": "",
+                        "Tenancy": "default",
+                        "AvailabilityZone": "us-east-1c"
+                    },
+                    "KernelId": "None",
+                    "Monitoring": {
+                        "State": "disabled"
+                    },
+                    "SubnetId": "subnet-1a6bfa29369df829f",
+                    "VpcId": "vpc-c4e3a55a0447ee1f4",
+                    "PrivateIpAddress": "10.0.2.4"
+                }
+            ]
+        },
+        {
+            "ReservationId": "r-c0231cf1cb5d156b0",
+            "OwnerId": "000000000000",
+            "Groups": [],
+            "Instances": [
+                {
+                    "Architecture": "x86_64",
+                    "BlockDeviceMappings": [
+                        {
+                            "DeviceName": "/dev/sda1",
+                            "Ebs": {
+                                "AttachTime": "2026-05-15T05:31:11+00:00",
+                                "DeleteOnTermination": true,
+                                "Status": "in-use",
+                                "VolumeId": "vol-b02b1c9add9bf85f4"
+                            }
+                        }
+                    ],
+                    "ClientToken": "ABCDE0000000000003",
+                    "EbsOptimized": false,
+                    "Hypervisor": "xen",
+                    "NetworkInterfaces": [
+                        {
+                            "Attachment": {
+                                "AttachTime": "2015-01-01T00:00:00+00:00",
+                                "AttachmentId": "eni-attach-dff39dc7a3e5cfbc9",
+                                "DeleteOnTermination": true,
+                                "DeviceIndex": 0,
+                                "Status": "attached"
+                            },
+                            "Description": "Primary network interface",
+                            "Groups": [
+                                {
+                                    "GroupId": "sg-e233eea5df1d83753",
+                                    "GroupName": "db-security-group"
+                                }
+                            ],
+                            "MacAddress": "1b:2b:3c:4d:5e:6f",
+                            "NetworkInterfaceId": "eni-9eae71aadb1b1a111",
+                            "OwnerId": "000000000000",
+                            "PrivateIpAddress": "10.0.3.4",
+                            "PrivateIpAddresses": [
+                                {
+                                    "Primary": true,
+                                    "PrivateIpAddress": "10.0.3.4"
+                                }
+                            ],
+                            "SourceDestCheck": true,
+                            "Status": "in-use",
+                            "SubnetId": "subnet-0735feccca7f82d41",
+                            "VpcId": "vpc-c4e3a55a0447ee1f4"
+                        }
+                    ],
+                    "RootDeviceName": "/dev/sda1",
+                    "RootDeviceType": "ebs",
+                    "SecurityGroups": [
+                        {
+                            "GroupId": "sg-e233eea5df1d83753",
+                            "GroupName": "db-security-group"
+                        }
+                    ],
+                    "SourceDestCheck": true,
+                    "StateReason": {
+                        "Code": "",
+                        "Message": ""
+                    },
+                    "Tags": [
+                        {
+                            "Key": "Name",
+                            "Value": "NebulaGuard-DB-Tier"
+                        }
+                    ],
+                    "VirtualizationType": "paravirtual",
+                    "HibernationOptions": {
+                        "Configured": false
+                    },
+                    "InstanceId": "i-c37b1b8c7500335f1",
+                    "ImageId": "ami-0c55b159cbfafe1f0",
+                    "State": {
+                        "Code": 16,
+                        "Name": "running"
+                    },
+                    "PrivateDnsName": "ip-10-0-3-4.ec2.internal",
+                    "PublicDnsName": "None",
+                    "StateTransitionReason": "",
+                    "AmiLaunchIndex": 0,
+                    "InstanceType": "t2.micro",
+                    "LaunchTime": "2026-05-15T05:31:11+00:00",
+                    "Placement": {
+                        "GroupName": "",
+                        "Tenancy": "default",
+                        "AvailabilityZone": "us-east-1e"
+                    },
+                    "KernelId": "None",
+                    "Monitoring": {
+                        "State": "disabled"
+                    },
+                    "SubnetId": "subnet-0735feccca7f82d41",
+                    "VpcId": "vpc-c4e3a55a0447ee1f4",
+                    "PrivateIpAddress": "10.0.3.4"
+                }
+            ]
+        },
+        {
+            "ReservationId": "r-9abaed0f8db1aded2",
+            "OwnerId": "000000000000",
+            "Groups": [],
+            "Instances": [
+                {
+                    "Architecture": "x86_64",
+                    "BlockDeviceMappings": [
+                        {
+                            "DeviceName": "/dev/sda1",
+                            "Ebs": {
+                                "AttachTime": "2026-05-15T05:31:20+00:00",
+                                "DeleteOnTermination": true,
+                                "Status": "in-use",
+                                "VolumeId": "vol-1723b83f2205791eb"
+                            }
+                        }
+                    ],
+                    "ClientToken": "ABCDE0000000000003",
+                    "EbsOptimized": false,
+                    "Hypervisor": "xen",
+                    "NetworkInterfaces": [
+                        {
+                            "Association": {
+                                "IpOwnerId": "000000000000",
+                                "PublicIp": "54.214.45.149"
+                            },
+                            "Attachment": {
+                                "AttachTime": "2015-01-01T00:00:00+00:00",
+                                "AttachmentId": "eni-attach-6d5625317dd0c4cce",
+                                "DeleteOnTermination": true,
+                                "DeviceIndex": 0,
+                                "Status": "attached"
+                            },
+                            "Description": "Primary network interface",
+                            "Groups": [
+                                {
+                                    "GroupId": "sg-57f7a288adfccc421",
+                                    "GroupName": "web-security-group"
+                                }
+                            ],
+                            "MacAddress": "1b:2b:3c:4d:5e:6f",
+                            "NetworkInterfaceId": "eni-db2ab91751689450e",
+                            "OwnerId": "000000000000",
+                            "PrivateIpAddress": "10.0.1.4",
+                            "PrivateIpAddresses": [
+                                {
+                                    "Association": {
+                                        "IpOwnerId": "000000000000",
+                                        "PublicIp": "54.214.45.149"
+                                    },
+                                    "Primary": true,
+                                    "PrivateIpAddress": "10.0.1.4"
+                                }
+                            ],
+                            "SourceDestCheck": true,
+                            "Status": "in-use",
+                            "SubnetId": "subnet-bd24fd05f8843e324",
+                            "VpcId": "vpc-c4e3a55a0447ee1f4"
+                        }
+                    ],
+                    "RootDeviceName": "/dev/sda1",
+                    "RootDeviceType": "ebs",
+                    "SecurityGroups": [
+                        {
+                            "GroupId": "sg-57f7a288adfccc421",
+                            "GroupName": "web-security-group"
+                        }
+                    ],
+                    "SourceDestCheck": true,
+                    "StateReason": {
+                        "Code": "",
+                        "Message": ""
+                    },
+                    "Tags": [
+                        {
+                            "Key": "Name",
+                            "Value": "NebulaGuard-Web-Tier"
+                        }
+                    ],
+                    "VirtualizationType": "paravirtual",
+                    "HibernationOptions": {
+                        "Configured": false
+                    },
+                    "InstanceId": "i-84bf8631d6c6abc49",
+                    "ImageId": "ami-0c55b159cbfafe1f0",
+                    "State": {
+                        "Code": 16,
+                        "Name": "running"
+                    },
+                    "PrivateDnsName": "ip-10-0-1-4.ec2.internal",
+                    "PublicDnsName": "ec2-54-214-45-149.compute-1.amazonaws.com",
+                    "StateTransitionReason": "",
+                    "AmiLaunchIndex": 0,
+                    "InstanceType": "t2.micro",
+                    "LaunchTime": "2026-05-15T05:31:20+00:00",
+                    "Placement": {
+                        "GroupName": "",
+                        "Tenancy": "default",
+                        "AvailabilityZone": "us-east-1e"
+                    },
+                    "KernelId": "None",
+                    "Monitoring": {
+                        "State": "disabled"
+                    },
+                    "SubnetId": "subnet-bd24fd05f8843e324",
+                    "VpcId": "vpc-c4e3a55a0447ee1f4",
+                    "PrivateIpAddress": "10.0.1.4",
+                    "PublicIpAddress": "54.214.45.149"
+                }
+            ]
+        }
+    ]
+}

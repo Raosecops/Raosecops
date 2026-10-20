@@ -1,0 +1,65 @@
+1. Foundation Level: The "Hardened SSH Bastion" Lab
+
+Goal: Master secure remote access, which is how 90% of cloud administration is performed.
+
+    The Lab Creation: You will configure your Ubuntu system to act as a "Bastion Host" (a secure entry point).
+
+    Concepts Learned:
+
+        SSH Key-Pair Authentication: Moving away from insecure passwords.
+
+        Service Hardening: Changing ports and disabling root logins.
+
+        Intrusion Prevention: Configuring Fail2Ban to block brute-force attempts.
+
+    Scenario Test: Attempt to log in with an incorrect password 5 times from another device. Document how the system automatically updates its firewall (iptables) to ban your IP.
+
+    Cloud Connection: This is the equivalent of securing a Public Instance used to access a Private Subnet in a VPC.
+
+2. Intermediate Level: The "Network Intrusion Detection" Lab
+
+Goal: Move from passive setup to active monitoring and threat detection.
+
+    The Lab Creation: Install Suricata or Wazuh on your Ubuntu machine and put your network card into Promiscuous Mode.
+
+    Concepts Learned:
+
+        Packet Sniffing: Using tcpdump to watch live traffic flows.
+
+        Signature Writing: Creating rules to detect specific "shouts" like an Nmap scan.
+
+        Log Management: Reading and analyzing system logs for anomalies.
+
+    Scenario Test: Run a "Stealth Scan" using Nmap from your phone or another PC. Verify that your lab generates a real-time alert and identifies the attacker's MAC and IP address.
+
+    Cloud Connection: This simulates AWS GuardDuty or Azure Sentinel behavior.
+
+3. Expert Level: The "Software-Defined Networking (SDN)" Lab
+
+Goal: Understand how Cloud VPCs isolate traffic without physical cables.
+
+    The Lab Creation: You will use Linux Namespaces (ip netns) to create two completely isolated virtual "servers" inside your single Ubuntu machine.
+
+    Concepts Learned:
+
+        Virtual Ethernet (veth): Manually "wiring" virtual machines together.
+
+        Linux Bridging: Creating a virtual switch to manage traffic.
+
+        Micro-segmentation: Using iptables to allow Namespace A to talk to B, but preventing B from talking to A.
+
+    Scenario Test: Create a "Database" namespace and a "Web Server" namespace. Prove that even though they are on the same laptop, the Web Server cannot access the Database unless you explicitly allow it in your firewall rules.
+
+    Cloud Connection: This is exactly how Amazon VPCs and Kubernetes networking function under the hood.
+
+Strategic Advice for Your Portfolio
+
+Since you have 0 industry experience, do not just list these as "things you did". Document them as Labs on your GitHub Pages:
+
+    Architecture: Draw a small diagram of the lab.
+
+    Constraint: Mention: "Optimized for 4GB RAM environment using persistent USB storage".
+
+    Cloud Map: Explicitly state: "What I did in Linux (IPTables) = What happens in the Cloud (Security Groups)".
+
+Which level would you like to attempt first? I can provide the first three commands for whichever one you choose.

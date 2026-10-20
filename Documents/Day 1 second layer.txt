@@ -1,0 +1,34 @@
+Here are your consolidated notes for the Network Layer. This layer is essentially the "Global Post Office" of the networking world.
+One. The Theoretical Foundation: OSI Model (Layer 3)
+
+The Network Layer is responsible for figuring out how to get data from one network to another.
+
+    Primary Purpose: Routing packets across different networks.
+
+    Data Unit: Packets.
+
+    Addressing: Logical Addressing (IP Addresses). In Other the MAC address (which is like your name), the IP address is like your "Postal Address"'it changes based on where you are located.
+
+Two. The Practical Reality: Linux Network Layer
+
+In the TCP/IP (Linux) Stack, this layer is where your Ubuntu kernel manages internet protocols.
+
+    The Conversion: It takes the Frame from the Network Access Layer, strips off the MAC address, and processes the IP Packet inside.
+
+    The Workhorse: This layer handles Fragmentation (splitting data to fit network limits) and Path Selection.
+
+    Linux Command: You use  ip routeon your Ubuntu machine to see your "Gateway"'the exit door your computer uses to reach the internet.
+
+Three. The Cloud Bridge: AWS (Software-Defined Networking)
+
+In AWS, this layer moves from physical routers to virtual, automated rules managed by the VPC (Virtual Private Cloud).
+
+    IP Assignment: The VPC assigns a Private IP address to your ENI (the Virtual NIC).
+
+    Route Tables: Instead of a physical router in a closet, AWS uses a Route Table to tell packets which way to go (e.g., "To get to the internet, go through the Internet Gateway").
+
+    The Security Guard (NACL): This is where Network ACLs (NACLs) live.
+
+        Purpose: A Stateless firewall that protects an entire Subnet (the street).
+
+        Logic: It uses a numbered checklist to Allow or Deny entering traffic or leaving the subnet boundary.

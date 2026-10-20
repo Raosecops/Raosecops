@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/%C3%96zge%C3%A7mi%C5%9F%20-%20Aspiring%20Software%20Developer.pdf" added="2026-05-02T07:17:03.450937Z" modified="2026-05-07T06:10:12.325890Z" visited="2026-05-02T07:17:03.450938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-07T06:10:12.325883Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/IMG_6769.PNG" added="2026-05-06T17:41:33.517847Z" modified="2026-05-06T17:41:33.517860Z" visited="2026-05-06T17:41:33.517849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T17:41:33.517854Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Professional-German-CV-Template.doc" added="2026-05-06T18:03:31.067952Z" modified="2026-05-06T18:03:31.068614Z" visited="2026-05-06T18:03:31.067954Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T18:03:31.068608Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/lebenslauf-vorlage-clean.docx" added="2026-05-06T18:08:54.854008Z" modified="2026-05-06T18:08:54.854400Z" visited="2026-05-06T18:08:54.854011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T18:08:54.854392Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Rao_Tariq_Jameel_German_Style_One_Page_CV.pdf" added="2026-05-06T18:57:02.739224Z" modified="2026-05-06T18:57:02.740136Z" visited="2026-05-06T18:57:02.739227Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T18:57:02.740129Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Screenshot%202026-05-06%20at%2021-59-10%20Dashboard.png" added="2026-05-06T18:59:10.632686Z" modified="2026-05-06T18:59:10.632696Z" visited="2026-05-06T18:59:10.632688Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T18:59:10.632691Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Screenshot%202026-05-06%20at%2022-00-33%20Dashboard.png" added="2026-05-06T19:00:33.725298Z" modified="2026-05-06T19:00:33.729614Z" visited="2026-05-06T19:00:33.725301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T19:00:33.729604Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/cv.pdf" added="2026-05-06T19:05:17.223843Z" modified="2026-05-06T19:05:17.232032Z" visited="2026-05-06T19:05:17.223845Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T19:05:17.232021Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Rao_Tariq_Jameel_Styled_German_CV.pdf" added="2026-05-06T19:08:17.235434Z" modified="2026-05-06T19:08:17.236462Z" visited="2026-05-06T19:08:17.235436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T19:08:17.236454Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Gemini_Generated_Image_spvo6uspvo6uspvo.png" added="2026-05-06T19:09:57.820864Z" modified="2026-05-06T19:09:57.820876Z" visited="2026-05-06T19:09:57.820866Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T19:09:57.820871Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Gemini_Generated_Image_spvo6uspvo6uspvo.pdf" added="2026-05-06T19:10:58.594108Z" modified="2026-05-06T19:10:58.595180Z" visited="2026-05-06T19:10:58.594110Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T19:10:58.595174Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Rao_Tariq_Jameel_Styled_German_CV-1.pdf" added="2026-05-06T19:21:57.360470Z" modified="2026-05-06T19:21:57.362788Z" visited="2026-05-06T19:21:57.360472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T19:21:57.362777Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Rao_Tariq_Jameel_Styled_German_CV-1.docx" added="2026-05-06T19:31:44.981291Z" modified="2026-05-06T19:31:44.983204Z" visited="2026-05-06T19:31:44.981293Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T19:31:44.983194Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/CVTemplate_en_GB.doc" added="2026-05-06T19:33:22.638482Z" modified="2026-05-06T19:33:22.638492Z" visited="2026-05-06T19:33:22.638484Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T19:33:22.638487Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/mode-2-pdf.docx" added="2026-05-06T19:36:10.292342Z" modified="2026-05-06T19:36:10.292351Z" visited="2026-05-06T19:36:10.292344Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-06T19:36:10.292347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/%C3%96zge%C3%A7mi%C5%9F%20-%20Aspiring%20Software%20Developer-1.pdf" added="2026-05-07T05:49:44.139538Z" modified="2026-05-07T05:49:44.142110Z" visited="2026-05-07T05:49:44.139542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-07T05:49:44.142099Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Rao_Tariq_Jameel_Final_Europass_CV.pdf" added="2026-05-07T06:14:39.279898Z" modified="2026-05-07T06:14:39.280814Z" visited="2026-05-07T06:14:39.279901Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-07T06:14:39.280808Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Gemini_Generated_Image_mf528mmf528mmf52.png" added="2026-05-07T16:51:19.624057Z" modified="2026-05-07T16:51:19.624069Z" visited="2026-05-07T16:51:19.624059Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-07T16:51:19.624064Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Gemini_Generated_Image_v2pdpwv2pdpwv2pd.png" added="2026-05-14T07:43:01.515155Z" modified="2026-05-14T07:43:01.515882Z" visited="2026-05-14T07:43:01.515157Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-14T07:43:01.515877Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Screenshot%202026-05-15%20at%2014-16-20%20PA%C5%9EAMINHAYVANCILIK.xlsx%20-%20Google%20Sheets.png" added="2026-05-15T11:16:20.848840Z" modified="2026-05-15T11:16:20.849222Z" visited="2026-05-15T11:16:20.848841Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-15T11:16:20.849217Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

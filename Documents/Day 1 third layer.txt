@@ -1,0 +1,42 @@
+Here are your consolidated engineering notes for the Transport Layer. As a Cloud Security Engineer, this is where you transition from "where is the data going?" to "which specific application is allowed to talk?"
+1. The Theoretical Foundation: OSI Model (Layer 4)
+
+The Transport Layer is the "Reliability & Application" layer. It ensures that data reaches the correct process on a host.
+
+    Primary Purpose: End-to-end communication and error recovery.
+
+    Data Unit: Segments (TCP) or Datagrams (UDP).
+
+    Addressing: Port Numbers (e.g., SSH=22, HTTPS=443, Database=3306).
+
+    Key Protocols:
+
+        TCP (Transmission Control Protocol): Connection-oriented, guaranteed delivery (the "Certified Mail" of the internet).
+
+        UDP (User Datagram Protocol): Connectionless, fast, no error checking (the "Standard Post" of the internet).
+
+Two. The Practical Reality: Linux Network Stack
+
+In your Ubuntu environment, the kernel manages these connections through Sockets.
+
+    The Conversion: The kernel receives a packet from the Network Layer, strips the IP header, and uses the Port Number to find the specific software (service) waiting for that data.
+
+    The Socket: A unique ident consisting of IP Address + Port NumberUh, .
+
+    Engineering Command: Use  ss -tulpnon your workstation. This shows you every open "door" (port) on your system. If a port is open but shouldn't be, it's a security vulnerability you must close.
+
+Three. The Cloud Bridge: AWS (Security Groups)
+
+In AWS, the Transport Layer is defined by Security Groups. For a Cloud Security Engineer, this is your most used frequently tool.
+
+    Technical Nature: A Stateful Virtual Firewall that acts as the "Protector of the Ports."
+
+    The Component: Attached directly to the Elastic Network Interface (ENI).
+
+    The Stateful Logic:
+
+        Memory: If you allow traffic Inbound on Port 443, the AWS infrastructure "remembers" the connection.
+
+        Automatic Return: It automatically allows the Outbound response back to the user, bypassing further checks for that specific session.
+
+    Engineering Rule: Security Groups only support "Allow" rules. Everything else is denied by default.

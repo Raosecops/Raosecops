@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="libreoffice-writer.desktop" score="0.40625" last-seen="1778096393"/>
+    <application id="org.gnome.TextEditor.desktop" score="29.38671875" last-seen="1779097860"/>
+    <application id="org.gnome.Loupe.desktop" score="1.8125" last-seen="1778918585"/>
+    <application id="org.gnome.Papers.desktop" score="0.71875" last-seen="1778215579"/>
+    <application id="apport-gtk.desktop" score="0.875" last-seen="1778920698"/>
+    <application id="thunderbird_thunderbird.desktop" score="1.5" last-seen="1778923571"/>
+    <application id="org.gnome.Nautilus.desktop" score="185.2734375" last-seen="1779093382"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0.03125" last-seen="1778095600"/>
+    <application id="org.flameshot.Flameshot.desktop" score="69.375" last-seen="1778920738"/>
+    <application id="libreoffice-startcenter.desktop" score="0.0625" last-seen="1778096398"/>
+    <application id="firefox_firefox.desktop" score="21010.62109375" last-seen="1779097899"/>
+    <application id="libreoffice-draw.desktop" score="0.25" last-seen="1778094872"/>
+    <application id="org.gnome.Ptyxis.desktop" score="1096.5390625" last-seen="1779097887"/>
+    <application id="org.gnome.Rhythmbox3.desktop" score="0" last-seen="1778781967"/>
+  </context>
+</application-state>

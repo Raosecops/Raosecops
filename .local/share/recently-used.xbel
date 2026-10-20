@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Networking%20roadmap.txt" added="2026-04-30T07:42:30.264866Z" modified="2026-05-18T08:34:54.735529Z" visited="2026-04-30T07:42:30.264868Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-04-30T07:42:30.264877Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-05-18T08:34:54.735526Z" count="14"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Day%201%20first%20layer.txt" added="2026-05-01T07:56:26.363755Z" modified="2026-05-01T09:12:54.419376Z" visited="2026-05-01T07:56:26.363757Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-01T07:56:26.363761Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-05-01T09:12:54.419374Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Day%201%20second%20layer.txt" added="2026-05-01T08:11:50.272465Z" modified="2026-05-01T08:29:00.382089Z" visited="2026-05-01T08:11:50.272466Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-01T08:11:50.272470Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-05-01T08:29:00.381817Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Day%201%20third%20layer.txt" added="2026-05-01T08:29:13.095284Z" modified="2026-05-01T08:29:13.095292Z" visited="2026-05-01T08:29:13.095286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-01T08:29:13.095288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Day%201%20layer%204.txt" added="2026-05-01T08:34:07.440477Z" modified="2026-05-01T08:34:07.440484Z" visited="2026-05-01T08:34:07.440478Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-01T08:34:07.440480Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Projects.txt" added="2026-05-02T11:03:35.492642Z" modified="2026-05-18T08:34:25.660169Z" visited="2026-05-02T11:03:35.492644Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-02T11:03:35.492647Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-05-18T08:34:25.660167Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/project%201/updatingpackages.png" added="2026-05-03T11:03:07.043521Z" modified="2026-05-03T11:03:07.438873Z" visited="2026-05-03T11:03:07.043523Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2026-05-03T11:03:07.043524Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2026-05-03T11:03:07.438867Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/project%201/confirming%20the%20secure%20connection.png" added="2026-05-03T12:23:14.507405Z" modified="2026-05-03T12:23:14.507419Z" visited="2026-05-03T12:23:14.507407Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-03T12:23:14.507412Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/project%201/backup%20original%20settings%20for%20safety.png" added="2026-05-03T12:34:33.804724Z" modified="2026-05-03T12:34:33.804731Z" visited="2026-05-03T12:34:33.804725Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-03T12:34:33.804728Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/project%201/hardening%20config%20rules%20in%20nano%20text%20editor.png" added="2026-05-03T12:37:38.705240Z" modified="2026-05-03T12:37:38.705248Z" visited="2026-05-03T12:37:38.705242Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-03T12:37:38.705245Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/project%201/permit%20root%20login%20was%20password%20only%20before.png" added="2026-05-03T12:43:28.605755Z" modified="2026-05-03T12:43:28.605762Z" visited="2026-05-03T12:43:28.605757Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-03T12:43:28.605759Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/project%201/password%20authentication%20changed%20to%20NO.png" added="2026-05-03T12:55:12.626116Z" modified="2026-05-03T12:55:12.626125Z" visited="2026-05-03T12:55:12.626118Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-03T12:55:12.626121Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/project%201/install%20fail2ban.png" added="2026-05-03T17:38:18.931402Z" modified="2026-05-03T17:38:18.931416Z" visited="2026-05-03T17:38:18.931405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-03T17:38:18.931409Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/project%201/made%20copy%20of%20a%20jail%20file%20into%20local%20file%20so%20cant%20mess%20up%20original.png" added="2026-05-03T17:48:58.286433Z" modified="2026-05-03T17:48:58.286459Z" visited="2026-05-03T17:48:58.286451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-03T17:48:58.286454Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/project%201/changed%20sshd%20setting%20in%20fail2ban.png" added="2026-05-03T18:07:15.855642Z" modified="2026-05-03T18:07:15.855650Z" visited="2026-05-03T18:07:15.855644Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-03T18:07:15.855646Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Turkish%20companies.txt" added="2026-05-05T10:14:14.925336Z" modified="2026-05-07T11:44:15.272193Z" visited="2026-05-05T10:14:14.925338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-05T10:14:14.925342Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-05-07T11:44:15.272191Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Cover%20letter.txt" added="2026-05-05T10:24:32.620979Z" modified="2026-05-05T10:38:15.212035Z" visited="2026-05-05T10:24:32.620981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-05T10:24:32.620983Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-05-05T10:38:15.212032Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Aspirant%20Cloud%20Security%20Engineer.pdf" added="2026-05-05T10:40:11.388370Z" modified="2026-05-07T05:31:04.782692Z" visited="2026-05-05T10:40:11.388371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-06T17:46:32.069338Z" count="10"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;papers %U&apos;" modified="2026-05-07T05:31:03.971159Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;papers %u&apos;" modified="2026-05-07T05:31:04.782690Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/IMG_6769.PNG" added="2026-05-06T17:42:05.632364Z" modified="2026-05-07T16:50:11.011518Z" visited="2026-05-06T17:42:05.632366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-07T16:50:11.011514Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Professional-German-CV-Template.doc" added="2026-05-06T18:03:37.929115Z" modified="2026-05-06T18:03:40.278194Z" visited="2026-05-06T18:03:37.929116Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 26.2" exec="&apos;soffice %u&apos;" modified="2026-05-06T18:03:40.278192Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/lebenslauf-vorlage-clean.docx" added="2026-05-06T18:09:00.837417Z" modified="2026-05-06T18:10:07.799718Z" visited="2026-05-06T18:09:00.837418Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2026-05-06T18:09:00.837422Z" count="1"/>
+          <bookmark:application name="LibreOffice 26.2" exec="&apos;soffice %u&apos;" modified="2026-05-06T18:10:07.799714Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/%C3%96zge%C3%A7mi%C5%9F%20-%20Aspiring%20Software%20Developer.pdf" added="2026-05-06T18:49:44.133040Z" modified="2026-05-07T05:34:36.243224Z" visited="2026-05-06T18:49:44.133042Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-07T05:34:36.243219Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Screenshot%202026-05-06%20at%2021-59-10%20Dashboard.png" added="2026-05-06T18:59:22.243862Z" modified="2026-05-06T18:59:22.243873Z" visited="2026-05-06T18:59:22.243863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2026-05-06T18:59:22.243866Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/cv.png" added="2026-05-06T19:01:10.383130Z" modified="2026-05-06T19:09:05.613530Z" visited="2026-05-06T19:01:10.383132Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-06T19:09:05.613525Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Gemini_Generated_Image_spvo6uspvo6uspvo.png" added="2026-05-06T19:10:44.209345Z" modified="2026-05-06T19:26:40.122525Z" visited="2026-05-06T19:10:44.209347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-06T19:10:44.209349Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2026-05-06T19:12:34.373445Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2026-05-06T19:26:40.122521Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Gemini_Generated_Image_spvo6uspvo6uspvo.pdf" added="2026-05-06T19:13:34.510378Z" modified="2026-05-06T19:14:38.327310Z" visited="2026-05-06T19:13:34.510379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;papers %U&apos;" modified="2026-05-06T19:14:37.534670Z" count="2"/>
+          <bookmark:application name="LibreOffice 26.2" exec="&apos;soffice %u&apos;" modified="2026-05-06T19:13:38.831404Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;papers %u&apos;" modified="2026-05-06T19:14:38.327307Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Rao_Tariq_Jameel_German_Style_One_Page_CV.pdf" added="2026-05-06T19:16:14.989924Z" modified="2026-05-06T19:24:57.338666Z" visited="2026-05-06T19:16:14.989925Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;papers %U&apos;" modified="2026-05-06T19:16:14.989930Z" count="1"/>
+          <bookmark:application name="Document Viewer" exec="&apos;papers %u&apos;" modified="2026-05-06T19:16:15.755825Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-06T19:24:57.338661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Rao_Tariq_Jameel_Styled_German_CV-1.pdf" added="2026-05-06T19:31:27.085335Z" modified="2026-05-06T19:31:27.085342Z" visited="2026-05-06T19:31:27.085336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-06T19:31:27.085338Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Rao_Tariq_Jameel_Styled_German_CV-1.docx" added="2026-05-06T19:31:49.402180Z" modified="2026-05-06T19:31:51.668105Z" visited="2026-05-06T19:31:49.402181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 26.2" exec="&apos;soffice %u&apos;" modified="2026-05-06T19:31:51.668103Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/CVTemplate_en_GB.doc" added="2026-05-06T19:33:26.453152Z" modified="2026-05-06T19:33:28.695190Z" visited="2026-05-06T19:33:26.453153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 26.2" exec="&apos;soffice %u&apos;" modified="2026-05-06T19:33:28.695188Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/mode-2-pdf.docx" added="2026-05-06T19:36:13.345872Z" modified="2026-05-06T19:39:53.597334Z" visited="2026-05-06T19:36:13.345874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 26.2" exec="&apos;soffice %u&apos;" modified="2026-05-06T19:39:53.597331Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Aspirant%20Cloud%20Security%20Engineer.pdf" added="2026-05-07T05:50:46.700283Z" modified="2026-05-07T17:55:37.595207Z" visited="2026-05-07T05:50:46.700285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-07T16:50:54.893640Z" count="6"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;papers %U&apos;" modified="2026-05-07T17:55:36.199183Z" count="2"/>
+          <bookmark:application name="Document Viewer" exec="&apos;papers %u&apos;" modified="2026-05-07T17:55:37.595204Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Platforms.txt" added="2026-05-07T11:44:34.961989Z" modified="2026-05-07T16:47:06.088704Z" visited="2026-05-07T11:44:34.961990Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2026-05-07T16:47:06.088698Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Europass%20Aspirant%20Cloud%20Security%20Engineer.pdf" added="2026-05-07T11:53:54.458428Z" modified="2026-05-07T15:36:46.511763Z" visited="2026-05-07T11:53:54.458430Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-07T15:36:46.511760Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Gemini_Generated_Image_mf528mmf528mmf52.png" added="2026-05-07T16:51:58.656505Z" modified="2026-05-07T16:51:58.656510Z" visited="2026-05-07T16:51:58.656506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-07T16:51:58.656508Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/NebulaGuard%20Project.txt" added="2026-05-13T16:12:23.354556Z" modified="2026-05-13T16:12:23.354567Z" visited="2026-05-13T16:12:23.354558Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-13T16:12:23.354561Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Nebula%20guard" added="2026-05-14T07:19:19.689109Z" modified="2026-05-14T07:19:19.689129Z" visited="2026-05-14T07:19:19.689110Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-05-14T07:19:19.689126Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Nebula%20guard/2%20Created%20terraform%20file%20using%20nano" added="2026-05-14T09:04:19.062172Z" modified="2026-05-14T09:04:19.062181Z" visited="2026-05-14T09:04:19.062173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-14T09:04:19.062179Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Nebula%20guard/4%20terraform%20network%20file.png" added="2026-05-14T15:45:28.921614Z" modified="2026-05-14T15:45:28.921622Z" visited="2026-05-14T15:45:28.921615Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-14T15:45:28.921618Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Nebula%20guard/8%20web%20cloud%20server.png" added="2026-05-15T04:12:26.502362Z" modified="2026-05-15T04:12:26.502371Z" visited="2026-05-15T04:12:26.502363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-15T04:12:26.502365Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Downloads/Screenshot%202026-05-15%20at%2014-16-20%20PA%C5%9EAMINHAYVANCILIK.xlsx%20-%20Google%20Sheets.png" added="2026-05-15T11:20:09.069569Z" modified="2026-05-15T11:20:09.069579Z" visited="2026-05-15T11:20:09.069571Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2026-05-15T11:20:09.069574Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Nebula%20guard/10%20database%20cloud%20server.png" added="2026-05-15T12:26:03.480231Z" modified="2026-05-15T12:26:03.853986Z" visited="2026-05-15T12:26:03.480231Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2026-05-15T12:26:03.480233Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2026-05-15T12:26:03.853981Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Nebula%20guard/12%20aws%20list%20configuration.png" added="2026-05-15T12:27:39.860801Z" modified="2026-05-15T12:27:39.860813Z" visited="2026-05-15T12:27:39.860803Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="flameshot" exec="&apos;flameshot %u&apos;" modified="2026-05-15T12:27:39.860806Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Nebula/15%20security%20groups%20check.png" added="2026-05-16T07:44:07.883871Z" modified="2026-05-16T07:44:08.350041Z" visited="2026-05-16T07:44:07.883872Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2026-05-16T07:44:07.883873Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2026-05-16T07:44:08.350036Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Nebula/6%20App%20Server%20security%20group.png" added="2026-05-16T07:44:37.577596Z" modified="2026-05-16T07:44:38.018588Z" visited="2026-05-16T07:44:37.577597Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2026-05-16T07:44:37.577599Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2026-05-16T07:44:38.018586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Nebula/7%20Database%20Server%20Security%20Group.png" added="2026-05-16T07:44:44.384698Z" modified="2026-05-16T07:45:40.351948Z" visited="2026-05-16T07:44:44.384701Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2026-05-16T07:45:39.998725Z" count="2"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2026-05-16T07:45:40.351946Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Nebula/5%20web%20server%20security%20group.png" added="2026-05-16T08:02:55.450710Z" modified="2026-05-16T08:02:55.806389Z" visited="2026-05-16T08:02:55.450711Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;loupe %U&apos;" modified="2026-05-16T08:02:55.450714Z" count="1"/>
+          <bookmark:application name="loupe" exec="&apos;loupe %u&apos;" modified="2026-05-16T08:02:55.806386Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

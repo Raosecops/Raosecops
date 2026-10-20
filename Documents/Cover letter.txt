@@ -1,0 +1,40 @@
+Adaylık: Junior Bulut ve Ağ Güvenliği Mühendisi - Rao Tariq Jameel
+
+Sayın İlgili,
+
+Bulut ve Ağ Güvenliği alanında uzmanlaşmış bir Bilgisayar Bilimleri mezunuyum. Teknik operasyonlarınıza katkı sağlamak amacıyla giriş seviyesindeki pozisyonlara başvurmaktayım.
+
+Linux sıkılaştırma (Ubuntu/Kali) ve ağ savunması (Fail2Ban/TCP-IP) gibi konularda uygulamalı laboratuvar çalışmalarımdan oluşan bir "Proof of Work" portfolyosu hazırladım.
+
+Teknik Portfolyom:
+
+    Web Sitesi: raocybersec.github.io
+
+    GitHub: github.com/Raocybersec
+
+Özgeçmişim ekte yer almaktadır. Teknik becerilerimi ekibinize katmak için sabırsızlanıyor, geri dönüşünüzü bekliyorum.
+
+Saygılarımla,
+
+Subject: Junior Cloud & Network Security Engineer - Rao Tariq Jameel
+
+Dear Hiring Team,
+
+I am a Computer Science graduate specializing in Cloud and Network Security. I am writing to apply for an entry-level position where I can contribute to your company’s technical operations.
+
+I have focused on building a "Proof of Work" portfolio through hands-on labs, including Linux hardening (Ubuntu/Kali) and network defense (Fail2Ban/TCP-IP).
+
+Technical Portfolio:
+
+    Website: raocybersec.github.io
+
+    GitHub: github.com/Raocybersec
+
+My resume is attached for your review. I am eager to apply my technical skills to your team and look forward to hearing from you.
+
+Best regards,
+
+Rao Tariq Jameel
++905431612520
+raotariqdeveloper@gmail.com
+

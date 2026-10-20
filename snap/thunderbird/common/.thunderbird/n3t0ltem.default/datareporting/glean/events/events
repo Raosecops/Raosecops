@@ -1,0 +1,4 @@
+{"timestamp":237014548,"category":"mail","name":"ui_interaction","extra":{"id":"messenger-window-close-button","source":"toolbox","glean_timestamp":"1778923563332"}}
+{"timestamp":237014814,"category":"inappnotifications","name":"shown","extra":{"glean_timestamp":"1778923563598","notification_id":"SnapESR1-en"}}
+{"timestamp":237021456,"category":"mail","name":"ui_interaction","extra":{"id":"messenger-window-close-button","source":"toolbox","glean_timestamp":"1778923570239"}}
+{"timestamp":237022526,"category":"mail","name":"ui_interaction","extra":{"id":"messenger-window-close-button","source":"toolbox","glean_timestamp":"1778923571309"}}

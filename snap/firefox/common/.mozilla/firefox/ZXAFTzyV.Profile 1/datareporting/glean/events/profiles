@@ -1,0 +1,4 @@
+{"timestamp":620761931,"category":"profiles.new","name":"displayed","extra":{"glean_timestamp":"1778153778668"}}
+{"timestamp":620762009,"category":"profiles.default","name":"updated","extra":{"glean_timestamp":"1778153778746"}}
+{"timestamp":620763272,"category":"profiles.new","name":"theme","extra":{"glean_timestamp":"1778153780009","value":"{cd6791f7-4b6d-47b4-8877-1d4c82c6699d}"}}
+{"timestamp":620771985,"category":"profiles.new","name":"alert","extra":{"value":"leave","glean_timestamp":"1778153788722"}}

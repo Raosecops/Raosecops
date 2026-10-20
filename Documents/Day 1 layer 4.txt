@@ -1,0 +1,52 @@
+Here are the engineering notes for the Session Layer. As you move towards becoming a Cloud Security Engineer, this layer is vital because it shifts the focus from "packets and ports" to "identities and persistent connections."
+One. Theoretical Foundation: OSI Model (Layer 5)
+
+The Session Layer is the "Manager" of the conversation. It starts, stops, and restarts communication between two points.
+
+    Primary Purpose: Dialogue Control. It manages the "state" of the connection so the two computers they know still talking to each other.
+
+    Key Functions:
+
+        Authentication: Verifying who the user is at the start.
+
+        Authorization: Checking what they are allowed to do.
+
+        Checkpointing: If the internet drops for a second, it allowed the transfer to pick up where it left off.
+
+    Data Unit: Data (or Request/Response).
+
+Two. The Practical Reality: Linux Network Stack
+
+In the Linux/TCP-IP Stack, this layer is where the operation handle systems persistent links between your local processes and remote servers.
+
+    The Conversion: It takes the reassembled data from the Transport Layer and maps it to a specific Session ID.
+
+    Implementation: Handledd via RPC (Remote Procedure Call) or Sockets that stay open for long periods.
+
+    Engineering Check: On your Ubuntu machine, when you use a command like  whoor last, you are seeing the history of active sessions on your system.
+
+Three. The Cloud Bridge: AWS (Identity & Persistence)
+
+In AWS, a Cloud Security Engineer manages this layer primarily through Identity and Access Management (IAM) and Systems Manager.
+
+    AWS Systems Manager (Session Manager): This is a "must-know" for your career. It allows you to log into your Ubuntu instances via the browser or AWS CLI without opening Port 22.
+
+        Engineering Benefit: By using Session Manager, you move security from the Network Layer (NACLs) to the Identity Layer (IAM).
+
+    Sticky Sessions: Used in Load Balancers. It ensures a user’s session stays on one specific server so they don't get logged out while moving through a website.
+
+    Session Tokens: AWS uses temporary security credentials (tokens) that expire after a set time (e.g., 1 hour), forcing a new session check for security.
+
+Summary Comparison Table
+Feature	OSI (Theoretical)	Linux Stack (Practical)	AWS Cloud (Engineering)
+Layer Name	Session Layer (L5)	Application / Session	IAM / Session Manager
+Main Goal	Manage the "Meeting"	Maintain Connection	Verify Identity & Persistence
+Identifier	Session ID	Process ID / Token	IAM Role / Session Token
+Security Logic	Auth / Checkpoints	SSH Sessions / SSL	MFA & Session
+Engineering Concept: The "Who" etc. The "How"
+
+    Transport Layer (L4):Asks "How" do we talk? (TCP? Port 22?)
+
+    Session Layer (L5): Asks "Who" is talking and "Are they still allowed" to be here?
+
+By AWS Session Manager, you can actually close Port 22 in your Security Groups entirely, making your Ubuntu workstation much harder for hackers to find.

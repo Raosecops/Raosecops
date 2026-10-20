@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Networking%20roadmap.txt" added="2026-04-30T07:42:32.891316Z" modified="2026-05-18T08:34:58.800644Z" visited="2026-05-18T11:34:55.578081+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-18T08:34:58.800642Z" count="88"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Day%201%20first%20layer.txt" added="2026-05-01T07:56:30.156023Z" modified="2026-05-07T05:29:24.610827Z" visited="2026-05-05T13:26:47.259839+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-07T05:29:24.610827Z" count="62"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Day%201%20second%20layer.txt" added="2026-05-01T08:11:53.155320Z" modified="2026-05-07T05:29:24.610819Z" visited="2026-05-05T13:26:47.261632+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-07T05:29:24.610819Z" count="56"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Day%201%20third%20layer.txt" added="2026-05-01T08:29:16.154597Z" modified="2026-05-01T08:29:16.446589Z" visited="2026-05-01T11:29:13.160512+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-01T08:29:16.446588Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Day%201%20layer%204.txt" added="2026-05-01T08:34:10.231740Z" modified="2026-05-01T08:34:10.231741Z" visited="2026-05-01T11:34:07.506782+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-01T08:34:10.231740Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Projects.txt" added="2026-05-02T11:03:39.038416Z" modified="2026-05-18T08:34:45.740808Z" visited="2026-05-18T11:34:27.219093+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-18T08:34:45.740807Z" count="34"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Cover%20letter.txt" added="2026-05-05T10:24:35.743625Z" modified="2026-05-13T16:11:14.345893Z" visited="2026-05-13T19:10:58.793940+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-13T16:11:14.345893Z" count="29"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/Platforms.txt" added="2026-05-07T11:44:38.163444Z" modified="2026-05-13T16:11:14.345890Z" visited="2026-05-13T19:10:58.828004+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-13T16:11:14.345890Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rao-tariq-jameel/Documents/NebulaGuard%20Project.txt" added="2026-05-13T16:12:26.483671Z" modified="2026-05-15T08:37:48.144499Z" visited="2026-05-13T19:12:23.417427+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2026-05-15T08:37:48.144498Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

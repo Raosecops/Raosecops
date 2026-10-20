@@ -1,0 +1,40 @@
+
+NebulaGuard: A Multi-Tiered Zero-Trust Cloud Network Architecture
+
+1. The Logical Layout (The "Why")
+
+Imagine you have a three-story building.
+
+    The Lobby (Web Subnet): Anyone can walk in. This is where your website lives. It’s risky because the public has access.
+
+    The Staff Office (App Subnet): Only employees with a badge can enter. This is where the "brains" of your app live. It talks to the Lobby and the Vault, but the public can't see it.
+
+    The Vault (Database Subnet): No windows, no outside doors. It only has one tiny slot that connects to the Staff Office. This is where the gold (data) is.
+
+2. The "Subnetting" Part (The "How")
+
+Instead of just giving everyone a random room number, you are using IP Math to define the boundaries of those floors.
+
+    You take one big block of "space" (e.g., 10.0.0.0/16) and carve out specific "floors" (e.g., 10.0.1.0, 10.0.2.0).
+
+    In the cloud, IP addresses are your ID badges. By setting up subnets, you are telling the cloud: "If an IP doesn't start with 10.0.2.x, it isn't allowed to even knock on the door of the Vault."
+
+3. The "Cyber & Cloud Security" Focus
+
+This is where you move beyond just "networking" and into "defense":
+
+    The Guards (Security Groups): You’ll write rules that say, "Only traffic on Port 443 (HTTPS) can enter the Lobby."
+
+    The One-Way Mirror (NAT Gateway): You’ll set it up so your private servers can reach out to the internet to download security updates, but nobody from the internet can follow that path back inside.
+
+    The Security Camera (VPC Flow Logs): You are setting up a system that records every "knock" on every door. If someone from the Lobby tries to jump straight to the Vault, you’ll see the "Access Denied" in your logs.
+
+Summary of what you are actually doing:
+
+    Math: Deciding how many "rooms" (IPs) each floor needs.
+
+    Construction: Using Terraform (code) to build the walls and floors automatically.
+
+    Security: Locking the doors so that traffic can only move from Lobby -> Office -> Vault, and never Lobby -> Vault.
+
+Does that make the "big picture" of the project clearer? If so, we can start by picking your "CIDR block" (the total space we have to work with).
