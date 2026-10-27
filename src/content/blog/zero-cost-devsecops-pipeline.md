@@ -1,7 +1,7 @@
 ---
 title: "Zero-Cost DevSecOps CI/CD Pipeline (Terraform + Checkov + TFLint)"
 description: "How to build an automated, shift-left security gate for Infrastructure as Code without cloud billing dependencies."
-pubDate: 2026-10-27
+date: 2026-10-27
 author: "Rao T"
 ---
 
