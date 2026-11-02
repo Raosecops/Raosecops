@@ -43,5 +43,8 @@ This repository includes an automated Python security auditing engine (security-
 Run the audit on your local Linux machine:
 
 python3 security-audit.py
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 014b3e94 (Add Cloud IAM Least Privilege Auditor blog post)
