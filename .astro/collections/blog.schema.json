@@ -26,25 +26,32 @@
             }
           ]
         },
-        "tags": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          },
-          "default": []
+        "pubDate": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "author": {
+          "type": "string"
         },
         "draft": {
-          "type": "boolean",
-          "default": false
-        },
-        "$schema": {
-          "type": "string"
+          "type": "boolean"
         }
       },
       "required": [
         "title",
-        "description",
-        "date"
+        "description"
       ],
       "additionalProperties": false
     }
