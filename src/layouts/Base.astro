@@ -1,4 +1,6 @@
 ---
+import '../styles/global.css';
+
 interface Props {
   title?: string;
   description?: string;
@@ -17,7 +19,7 @@ const { title = "RaosecOps | Cloud Security Engineering", description = "Cloud S
     <title>{title}</title>
     <meta name="description" content={description} />
   </head>
-  <body class="bg-slate-900 text-slate-100 min-h-screen">
+  <body>
     <slot />
   </body>
 </html>
