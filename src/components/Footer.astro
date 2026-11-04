@@ -1,0 +1,13 @@
+---
+import { SITE } from '../config';
+---
+<footer class="site-footer">
+  <div class="wrap bar">
+    <p>© {new Date().getFullYear()} {SITE.brand}</p>
+    <p class="links">
+      <a href={SITE.github} rel="noopener">GitHub</a>
+      <a href={SITE.x} rel="noopener">X</a>
+      <a href="/rss.xml">RSS</a>
+    </p>
+  </div>
+</footer>
